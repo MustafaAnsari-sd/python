@@ -1,0 +1,6 @@
+Hey I'm Mustafa Ansari , an AIML engineeering student 
+MY current skill stack is : 1) python
+                            2) flask
+                            3) postgreSQL
+                            4) HTML
+                            5) CSS
